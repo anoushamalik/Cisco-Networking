@@ -5,8 +5,6 @@
 
 This repository contains a collection of Cisco Packet Tracer simulation files that cover various networking concepts and techniques. These files are designed to help students and networking professionals practice and understand key networking topics such as subnet masking, internet cloud configuration, VLAN trunking, static and dynamic routing, file transfers, and more.
 
-## Contents
-
 ### 1. **Subnet Masking**
    - **Description**: This simulation demonstrates how to design and implement subnetting in a network. It includes examples of calculating subnet masks, dividing IP address spaces, and configuring routers and switches to handle multiple subnets.
 
