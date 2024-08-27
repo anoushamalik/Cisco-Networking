@@ -21,7 +21,7 @@ This repository contains a collection of Cisco Packet Tracer simulation files th
    - **Description**: This project illustrates the implementation of dynamic routing protocols, such as OSPF or EIGRP, in a network. The file includes the configuration of routers to automatically discover routes and adapt to changes in the network.
 
 ### 6. **File Transfers**
-   - **Description**: This simulation shows the process of transferring files across a network using protocols like FTP (File Transfer Protocol) or TFTP (Trivial File Transfer Protocol). It includes setting up servers and clients, and performing file uploads and downloads.
+   - **Description**: This simulation shows the process of transferring files across a network using protocols like FTP (File Transfer Protocol) or TFTP (Trivial File Transfer Protocol). It includes setting up servers and clients and performing file uploads and downloads.
 
 ## How to Use
 
